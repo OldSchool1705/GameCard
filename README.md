@@ -1,1 +1,1 @@
-# GameCard
+# GameCard.github.io
